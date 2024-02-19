@@ -1,4 +1,14 @@
 # bible-app
+#### TODO:
+- TS
+- Auth\Personal cabinet
+- Quasar (discussable)
+- Pinia (discussable)
+- Tests framework
+- Chat, based on websockets
+- Comments section
+- Node
+- DB
 
 ## Project setup
 ```
@@ -27,3 +37,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
