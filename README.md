@@ -1,5 +1,6 @@
 # bible-app
 #### TODO:
+- Forbid push into master branch
 - TS
 - Auth\Personal cabinet
 - Quasar (discussable)
@@ -9,6 +10,7 @@
 - Comments section
 - Node
 - DB
+- Multilang
 
 ## Project setup
 ```
