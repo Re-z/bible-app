@@ -5,7 +5,7 @@
 - Auth\Personal cabinet
 - Quasar (discussable)
 - Pinia (discussable)
-- Tests framework
+- Tests framework\Vitest
 - Chat, based on websockets
 - Comments section
 - Node
